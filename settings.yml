@@ -13,11 +13,11 @@ goal_title:
 left_symbol:
   default: $
   description:
-    en: "Currency left symbol. Remove this if you use right symbol currency."
+    en: "Currency left side symbol. Remove this if you use right side symbol currency."
 right_symbol:
   default: ""
   description:
-    en: "Currency right symbol. Remove this if you use left symbol currency."
+    en: "Currency right side symbol. Remove this if you use left side symbol currency."
 period:
   default: month
   description:
