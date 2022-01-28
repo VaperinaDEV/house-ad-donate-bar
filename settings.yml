@@ -1,0 +1,24 @@
+current:
+  default: 0
+  description:
+    en: "Current Donation"
+goal:
+  default: 150
+  description:
+    en: "Donation Goal"
+goal_title:
+  default: Goal
+  description:
+    en: "Goal title"
+left_symbol:
+  default: $
+  description:
+    en: "Currency left symbol. Remove this if you use right symbol currency."
+right_symbol:
+  default: ""
+  description:
+    en: "Currency right symbol. Remove this if you use left symbol currency."
+period:
+  default: month
+  description:
+    en: "Donation Period time. e.g. month"
