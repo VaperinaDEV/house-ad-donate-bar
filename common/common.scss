@@ -62,7 +62,7 @@ $donate-panel-width: calc(#{$topic-avatar-width} + #{$topic-body-width} + (#{$to
 
 // Donate Bar
 
-.goal-cont {
+.goal-container {
   background-color: var(--primary-low);
   color: var(--primary);
   font-weight: 600;
