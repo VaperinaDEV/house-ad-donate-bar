@@ -84,7 +84,7 @@ $donate-panel-width: calc(#{$topic-avatar-width} + #{$topic-body-width} + (#{$to
     width: calc((#{$current} / #{$goal}) * 100%);
     max-width: 100%;
   }
-  &__title {
+  &__current {
     background: var(--secondary);
     border: 2px solid var(--success);
     border-radius: 1em;
@@ -108,7 +108,7 @@ $donate-panel-width: calc(#{$topic-avatar-width} + #{$topic-body-width} + (#{$to
       }
     }
   }
-  &__title,
+  &__current,
   &__bar {
     position: relative;
     z-index: 1;
